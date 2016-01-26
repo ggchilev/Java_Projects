@@ -1,0 +1,9 @@
+Georgi
+Programmer
+400.00
+Ivan
+Captain
+300.00
+Sasho
+Gag
+200.00
